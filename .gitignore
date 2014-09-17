@@ -1,0 +1,12 @@
+# Ignoring the OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignoring the cordova project internals
+platforms/android
+plugins/android.json
